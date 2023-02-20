@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "68965189012",
+    "project_id": "porochi-app-b37af",
+    "storage_bucket": "porochi-app-b37af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68965189012:android:9ad1d56c4d497ca6253b81",
+        "android_client_info": {
+          "package_name": "com.keypet.keypet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68965189012-ei2f2f1746e3jqmhdieukc6ghgm9dlln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMIm4gnTUufhIO4EENeKu_R0IGXRikLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68965189012-ei2f2f1746e3jqmhdieukc6ghgm9dlln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68965189012-t86pdac9vcfse4auk65969qj77si32m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.porochiMain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68965189012:android:0e12840720844d51253b81",
+        "android_client_info": {
+          "package_name": "com.example.porochi_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68965189012-ei2f2f1746e3jqmhdieukc6ghgm9dlln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMIm4gnTUufhIO4EENeKu_R0IGXRikLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68965189012-ei2f2f1746e3jqmhdieukc6ghgm9dlln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68965189012-t86pdac9vcfse4auk65969qj77si32m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.porochiMain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
